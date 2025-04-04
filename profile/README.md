@@ -73,6 +73,6 @@ If your vision aligns with our mission, we'd love to hear from you.
 
 📬 Contact us:  
 🌐 Website – [nebka-dev.com](https://nebka-dev.com)  
-📧 Email – peymanvalikhanli2012@gmail.com  
+📧 Email – [peymanvalikhanli2012@gmail.com](mailto:peymanvalikhanli2012@gmail.com)  
 📸 Instagram – [@peymanvalikhanli2012](https://instagram.com/peymanvalikhanli2012)
 
