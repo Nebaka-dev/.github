@@ -55,6 +55,7 @@ Make sure to have the following installed:
 ```bash
 git clone https://github.com/Nebka-dev/<repository-name>.git
 
+```
 ## 🤝 Let's Collaborate
 
 We're open to meaningful partnerships with:
