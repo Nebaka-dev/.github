@@ -1,52 +1,56 @@
-# NEBKA-DEV
-
-Welcome to the official GitHub repository of **NEBKA-DEV**, a technology-driven company specializing in software development, smart home solutions, and robotics.
-
-## About Us
-
-NEBKA-DEV is committed to leveraging cutting-edge technologies to create innovative and efficient solutions that improve the quality of life and enhance business operations. Our expertise spans across:
-
-- **Smart Home Solutions:** Developing systems that enhance comfort, security, and energy efficiency.
-- **Custom Software Development:** Providing tailor-made software solutions to optimize business productivity.
-- **Robotics:** Designing advanced robots for diverse applications.
-
-Learn more about us on our [official website](https://nebka-dev.com).
+# 🌿 NEBKA-DEV
+Welcome to the official GitHub organization of **NEBKA-DEV** — a mission-driven technology company focused on building **ethical, human-centered software, robotics, and smart systems**.
 
 ---
 
-## Key Features
+## 🧭 About Us
 
-Our products and solutions focus on:
+At **NEBKA-DEV**, we leverage cutting-edge technologies to build impactful, sustainable solutions for everyday life and forward-thinking industries.
 
-- **Smart Automation:** Seamless control of lighting, temperature, and security through advanced smart systems.
-- **Security Enhancements:** Smart locks, cameras, and instant alerts for enhanced home security.
-- **Integration:** Compatibility with voice assistants and mobile applications for an intuitive user experience.
+We specialize in:
 
----
+- 🏠 **Smart Home Solutions** — Comfort, security, and energy efficiency through intelligent automation.
+- 💻 **Custom Software Development** — Scalable, maintainable, and tailor-made platforms for modern businesses.
+- 🤖 **Robotics & Automation** — From educational bots to specialized control systems.
 
-## Repository Overview
-
-This repository contains resources, projects, and open-source contributions developed by NEBKA-DEV. Below are some key areas:
-
-1. **Projects:** Source code for smart home and robotics solutions.
-2. **Tools:** Utility libraries and frameworks designed to enhance development workflows.
-3. **Documentation:** Guides and manuals for our products and APIs.
+> 🌱 *Our philosophy is simple: Technology should serve people, not harm them.*
 
 ---
 
-## Get Started
+## 🔧 Key Features
 
-### Prerequisites
+- **Smart Automation** — Control lighting, temperature, security, and more via intelligent systems.
+- **Security Focused** — Smart locks, AI-enhanced cameras, and real-time alerts.
+- **Seamless Integration** — Works with mobile apps, WebSocket services, and voice assistants.
 
-Before diving into the repository, make sure you have the following installed:
+---
 
-- **Node.js**: v16.x or higher
-- **Python**: v3.8 or higher
-- **Git**: v2.x or higher
+## 📁 Repository Overview
 
-### Clone the Repository
+This GitHub organization hosts various NEBKA-DEV resources including:
 
-To clone the repository, use the following command:
+- `otto-ninja` – 3D printable, modular robot platform (educational/DIY)
+- `ups-system` – Modular UPS for sustainable energy backup
+- `ai-interface-nebka` – Intelligent real-time interfaces (limited public access)
+- `docs/` – Manuals and developer guides
+- `utils/` – Internal tooling & automation
+
+⚠️ Note: Due to IP and business considerations, some repositories are private or partially available.  
+Feel free to reach out for demo access or partnership opportunities.
+
+---
+
+## 🚀 Get Started
+
+### 📦 Prerequisites
+
+Make sure to have the following installed:
+
+- `Node.js` v16+  
+- `Python` v3.8+  
+- `Git` v2.0+
+
+### 📥 Clone a Repository
 
 ```bash
 git clone https://github.com/Nebka-dev/<repository-name>.git
