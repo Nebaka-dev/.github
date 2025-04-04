@@ -54,3 +54,20 @@ Make sure to have the following installed:
 
 ```bash
 git clone https://github.com/Nebka-dev/<repository-name>.git
+
+## 🤝 Let's Collaborate
+
+We're open to meaningful partnerships with:
+
+- 🌍 NGOs & ethical tech startups  
+- 🧪 Research labs & innovation centers  
+- 🎓 Educational institutions  
+- 💡 Open-source & human-centered initiatives
+
+If your vision aligns with our mission, we'd love to hear from you.
+
+📬 Contact us:  
+🌐 Website – [nebka-dev.com](https://nebka-dev.com)  
+📧 Email – peymanvalikhanli2012@gmail.com  
+📸 Instagram – [@peymanvalikhanli2012](https://instagram.com/peymanvalikhanli2012)
+
