@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=" https://github.com/Nebaka-dev/.github/blob/main/profile/assets/baner.png?raw=true" alt="NEBKA Banner" width="100%">
+  <img src="https://github.com/Nebaka-dev/.github/blob/main/profile/assets/baner.png?raw=true" alt="NEBKA Banner" width="100%">
 </p>
 
 # 🌿 NEBKA-DEV
