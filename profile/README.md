@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/Nebka-dev/Nebka-dev/blob/main/assets/nebka-banner.png?raw=true" alt="NEBKA Banner" width="100%">
+</p>
+
 # 🌿 NEBKA-DEV
 Welcome to the official GitHub organization of **NEBKA-DEV** — a mission-driven technology company focused on building **ethical, human-centered software, robotics, and smart systems**.
 
